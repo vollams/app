@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.9",
+  "Version": "1.1.0",
   "Servers": [
     {
       "Name": "VIP 01",
@@ -1273,28 +1273,24 @@
       }
     },
     {
-      "Name": "Azim slowdns",
-      "ServerIPHost": "rax1.runutour.info",
-      "Subname": "",
-      "OpenVPNTCPPort": "",
-      "OpenVPNSSLPort": "",
+      "Name": "DNSST - Online 🟢 02",
+      "ServerIPHost": "[rlb]",
+      "Subname": "⚡Auto Speed Booster⚡",
+      "OpenVPNTCPPort": 0,
+      "OpenVPNSSLPort": 0,
       "Protocol": 4,
       "CloudfrontDNS": "",
       "ServerHTTP": "",
-      "flag": "in",
+      "flag": "de",
       "UDPMode": 0,
       "Obfs": "",
       "UdpAuthMode": 0,
-      "Username": "",
-      "Password": "",
       "UseCustomCert": false,
       "CustomCert": "",
-      "V2Ray": {
-        "V2RayType": 0,
-        "V2RayHost": "",
-        "UUID": "",
-        "PATH": "",
-        "DNSMode": 0
+      "SlowDNS": {
+        "NSNameServer": "nkrn.runutour.info",
+        "PubKey": "c68de8389aa5a9a6845a5d04250b315f8b167216d4a0f49a388e95d69469ba3e",
+        "DNSResolver": "1.1.1.1"
       }
     },
     {
