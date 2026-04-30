@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.6",
+  "Version": "1.0.7",
   "Servers": [
     {
       "Name": "VIP 01",
@@ -1248,20 +1248,20 @@
       }
     },
     {
-      "Name": "Server 02 [CDN]",
-      "ServerIPHost": "f1.dev-zoom.buzz",
+      "Name": "Server Azim",
+      "ServerIPHost": "a.ruzain.com",
       "Subname": "Fastly Server📳",
       "OpenVPNTCPPort": "0",
       "OpenVPNSSLPort": "0",
-      "Protocol": 3,
+      "Protocol": 1,
       "CloudfrontDNS": "",
       "ServerHTTP": "",
-      "flag": "sg",
+      "flag": "bd",
       "UDPMode": 0,
-      "Obfs": "",
+      "Obfs": "vollam",
       "UdpAuthMode": 0,
-      "Username": "",
-      "Password": "",
+      "Username": "udpuser",
+      "Password": "udpuser",
       "UseCustomCert": false,
       "CustomCert": "",
       "V2Ray": {
