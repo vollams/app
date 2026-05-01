@@ -1,5 +1,5 @@
 {
-  "Version": "1.2.1",
+  "Version": "1.2.2",
   "Servers": [
     {
       "Name": "Server OVPN",
@@ -139,6 +139,34 @@
         "PATH": "\/vollam\/",
         "DNSMode": 1,
         "VollamId": "d8bbc2ee8738e060"
+      }
+    },
+    {
+      "Name": "VOLLAM 2",
+      "ServerIPHost": "[vollamhost]",
+      "Subname": "",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 3,
+      "CloudfrontDNS": "[vollamhost]",
+      "ServerHTTP": "[vollamhost]",
+      "GCPHost": "",
+      "UseMode": 0,
+      "flag": "de",
+      "UDPMode": 0,
+      "Obfs": "",
+      "UdpAuthMode": 0,
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "rax1.runutour.info",
+        "UUID": "[vollam]",
+        "PATH": "\/vollam\/",
+        "DNSMode": 1,
+        "VollamId": "a1edeacc4217ad36"
       }
     }
   ],
