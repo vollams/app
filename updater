@@ -1,5 +1,5 @@
 {
-  "Version": "1.2.0",
+  "Version": "1.2.1",
   "Servers": [
     {
       "Name": "Server OVPN",
@@ -110,33 +110,6 @@
         "V2RayHost": "",
         "UUID": "",
         "PATH": "",
-        "DNSMode": 0
-      }
-    },
-    {
-      "Name": "V2Ray",
-      "ServerIPHost": "rax1.runutour.info",
-      "Subname": "",
-      "OpenVPNTCPPort": "1194",
-      "OpenVPNSSLPort": "443",
-      "Protocol": 3,
-      "CloudfrontDNS": "rax1.runutour.info",
-      "ServerHTTP": "rax1.runutour.info",
-      "GCPHost": "",
-      "UseMode": 0,
-      "flag": "de",
-      "UDPMode": 0,
-      "Obfs": "",
-      "UdpAuthMode": 0,
-      "Username": "",
-      "Password": "",
-      "UseCustomCert": false,
-      "CustomCert": "",
-      "V2Ray": {
-        "V2RayType": 0,
-        "V2RayHost": "rax1.runutour.info",
-        "UUID": "5d2b10f0-dabf-491a-aa05-333b183f3764",
-        "PATH": "vollam",
         "DNSMode": 0
       }
     },
