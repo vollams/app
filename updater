@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.8",
+  "Version": "1.1.1",
   "Servers": [
     {
       "Name": "Server OVPN",
@@ -359,7 +359,7 @@
       "V2Ray": {
         "UseCustomV2RAYConfig": true,
         "allowInsecure": false,
-        "CustomV2RAYConfig": "vless:\/\/vollam@rax1.runutour.info:443?path=%2Fvollam%2F&security=tls&allowInsecure=1&encryption=none&host=rax1.runutour.info&type=ws&sni=rax1.runutour.info#VOLLAM-TLS",
+        "CustomV2RAYConfig": "vless:\/\/00000000-0000-0000-0000-000000000000@cdn.cloudflare.com:443?path=%2Fupdate%2F&security=tls&allowInsecure=1&encryption=none&host=cdn.cloudflare.com&type=ws&sni=cdn.cloudflare.com#VOLLAM-TLS",
         "SNIHost": "172.65.90.47",
         "WSType": 0,
         "ReverseAddress": false,
