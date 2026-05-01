@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.1",
+  "Version": "1.2.0",
   "Servers": [
     {
       "Name": "Server OVPN",
@@ -134,10 +134,11 @@
       "CustomCert": "",
       "V2Ray": {
         "V2RayType": 0,
-        "V2RayHost": "rax1.runutour.info",
-        "UUID": "5d2b10f0-dabf-491a-aa05-333b183f3764",
+        "V2RayHost": "[vollamhost]",
+        "UUID": "[vollam]",
         "PATH": "vollam",
-        "DNSMode": 0
+        "DNSMode": 0,
+        "VollamId": "a1edeacc4217ad36"
       }
     }
   ],
@@ -365,6 +366,35 @@
         "ReverseAddress": false,
         "ReverseOnly": false,
         "DNSMode": 2
+      }
+    },
+    {
+      "Name": "v2ray 2",
+      "SNIHost": "",
+      "Payload": "",
+      "ServerProtocol": 0,
+      "Info": "",
+      "TunnelType": 9,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "OverrideTimeout": false,
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      },
+      "V2Ray": {
+        "UseCustomV2RAYConfig": false,
+        "allowInsecure": false,
+        "CustomV2RAYConfig": "",
+        "SNIHost": "",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "ReverseOnly": false,
+        "DNSMode": 0
       }
     }
   ]
