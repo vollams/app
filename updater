@@ -1,5 +1,5 @@
 {
-  "Version": "1.3.1",
+  "Version": "1.3.2",
   "Servers": [
     {
       "Name": "Server OVPN",
@@ -120,8 +120,8 @@
       "OpenVPNTCPPort": "1194",
       "OpenVPNSSLPort": "443",
       "Protocol": 3,
-      "CloudfrontDNS": "[vollamhost]",
-      "ServerHTTP": "[vollamhost]",
+      "CloudfrontDNS": "nfzy.runutour.info",
+      "ServerHTTP": "nfzy.runutour.info",
       "GCPHost": "",
       "UseMode": 0,
       "flag": "de",
@@ -389,64 +389,6 @@
         "UseCustomV2RAYConfig": false,
         "allowInsecure": false,
         "CustomV2RAYConfig": "",
-        "SNIHost": "",
-        "WSType": 0,
-        "ReverseAddress": false,
-        "ReverseOnly": false,
-        "DNSMode": 0
-      }
-    },
-    {
-      "Name": "v2ray new",
-      "SNIHost": "",
-      "Payload": "",
-      "ServerProtocol": 0,
-      "Info": "",
-      "TunnelType": 9,
-      "DNSServerHost": "",
-      "DNSResolver": "",
-      "AutoReplace": true,
-      "TLSVersion": "Default",
-      "OverrideTimeout": false,
-      "EnableWS": false,
-      "PayloadMode": 0,
-      "ProxySettings": {
-        "Squid": "[Default]",
-        "Port": ""
-      },
-      "V2Ray": {
-        "UseCustomV2RAYConfig": false,
-        "allowInsecure": false,
-        "CustomV2RAYConfig": "",
-        "SNIHost": "",
-        "WSType": 0,
-        "ReverseAddress": false,
-        "ReverseOnly": false,
-        "DNSMode": 0
-      }
-    },
-    {
-      "Name": "v2ray config",
-      "SNIHost": "",
-      "Payload": "",
-      "ServerProtocol": 0,
-      "Info": "",
-      "TunnelType": 9,
-      "DNSServerHost": "",
-      "DNSResolver": "",
-      "AutoReplace": true,
-      "TLSVersion": "Default",
-      "OverrideTimeout": false,
-      "EnableWS": false,
-      "PayloadMode": 0,
-      "ProxySettings": {
-        "Squid": "[Default]",
-        "Port": ""
-      },
-      "V2Ray": {
-        "UseCustomV2RAYConfig": true,
-        "allowInsecure": false,
-        "CustomV2RAYConfig": "vless:\/\/f3bf8355-b78e-4cf2-b98b-a550a34ca417@nfzy.runutour.info:443?path=%2Fvollam%2F&security=tls&allowInsecure=1&encryption=none&host=nfzy.runutour.info&type=ws&sni=nfzy.runutour.info#VOLLAM-TLS",
         "SNIHost": "",
         "WSType": 0,
         "ReverseAddress": false,
