@@ -1,5 +1,5 @@
 {
-  "Version": "1.2.9",
+  "Version": "1.3.0",
   "Servers": [
     {
       "Name": "Server OVPN",
@@ -369,6 +369,35 @@
     },
     {
       "Name": "v2ray 2",
+      "SNIHost": "",
+      "Payload": "",
+      "ServerProtocol": 0,
+      "Info": "",
+      "TunnelType": 9,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "OverrideTimeout": false,
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      },
+      "V2Ray": {
+        "UseCustomV2RAYConfig": false,
+        "allowInsecure": false,
+        "CustomV2RAYConfig": "",
+        "SNIHost": "",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "ReverseOnly": false,
+        "DNSMode": 0
+      }
+    },
+    {
+      "Name": "v2ray new",
       "SNIHost": "",
       "Payload": "",
       "ServerProtocol": 0,
