@@ -1,5 +1,5 @@
 {
-  "Version": "1.2.7",
+  "Version": "1.2.8",
   "Servers": [
     {
       "Name": "Server OVPN",
@@ -115,7 +115,7 @@
     },
     {
       "Name": "VOLLAM 2",
-      "ServerIPHost": "[vollamhost]",
+      "ServerIPHost": "nfzy.runutour.info",
       "Subname": "",
       "OpenVPNTCPPort": "1194",
       "OpenVPNSSLPort": "443",
@@ -134,11 +134,10 @@
       "CustomCert": "",
       "V2Ray": {
         "V2RayType": 3,
-        "V2RayHost": "rax1.runutour.info",
-        "UUID": "[vollam]",
+        "V2RayHost": "nfzy.runutour.info",
+        "UUID": "f3bf8355-b78e-4cf2-b98b-a550a34ca417",
         "PATH": "\/vollam\/",
-        "DNSMode": 1,
-        "VollamId": "a1edeacc4217ad36"
+        "DNSMode": 1
       }
     }
   ],
