@@ -5,7 +5,7 @@
     {
       "Name": "Server v2ray",
       "Subname": "Free",
-      "Flag": "DEFAULT.png",
+      "Flag": "BD.png",
       "Protocol": 2,
       "ServerIPHost": "nfzy.runutour.info",
       "V2Ray": {
@@ -18,7 +18,7 @@
     },
     {
       "Name": "VOLLAM-TLS",
-      "Flag": "DEFAULT.png",
+      "Flag": "UK.png",
       "Protocol": 2,
       "ServerIPHost": "nfzy.runutour.info",
       "V2Ray": {
@@ -31,7 +31,7 @@
     },
     {
       "Name": "v2ray direct",
-      "Flag": "DEFAULT.png",
+      "Flag": "US.png",
       "Protocol": 2,
       "ServerIPHost": "nfzy.runutour.info",
       "V2Ray": {
@@ -41,7 +41,7 @@
     {
       "Name": "ovpn",
       "Subname": "free",
-      "Flag": "DEFAULT.png",
+      "Flag": "DE.png",
       "Protocol": 0,
       "ServerIPHost": "a.ruzain.com",
       "ServerCloudFrontHost": "a.ruzain.com",
@@ -54,7 +54,7 @@
     {
       "Name": "ovpn user",
       "Subname": "free",
-      "Flag": "DEFAULT.png",
+      "Flag": "SA.png",
       "Protocol": 0,
       "ServerIPHost": "a.ruzain.com",
       "ServerCloudFrontHost": "a.ruzain.com",
