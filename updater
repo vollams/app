@@ -7,16 +7,64 @@
       "Subname": "Free",
       "Flag": "DEFAULT.png",
       "Protocol": 2,
-      "ServerIPHost": "mcVCQ3xwUuJ6Dzha8411GJJbb6XAGxMO",
+      "ServerIPHost": "nfzy.runutour.info",
       "V2Ray": {
         "V2RayType": 0,
-        "V2RayHost": "mcVCQ3xwUuJ6Dzha8411GJJbb6XAGxMO",
-        "UUID": "f9j3Fjecv6+WRvJZUZQBS+gLbTDNjwsFk6i07ZEw3r4SLN06t8umpg==",
-        "PATH": "rrm5Ct\/FV\/BG+IG5",
-        "RealUUID": "",
-        "RealHost": "",
+        "V2RayHost": "nfzy.runutour.info",
+        "UUID": "f3bf8355-b78e-4cf2-b98b-a550a34ca417",
+        "PATH": "vollam",
         "DNSMode": 1
       }
+    },
+    {
+      "Name": "VOLLAM-TLS",
+      "Flag": "DEFAULT.png",
+      "Protocol": 2,
+      "ServerIPHost": "nfzy.runutour.info",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "nfzy.runutour.info",
+        "UUID": "f3bf8355-b78e-4cf2-b98b-a550a34ca417",
+        "PATH": "\/vollam\/",
+        "DNSMode": 0
+      }
+    },
+    {
+      "Name": "v2ray direct",
+      "Flag": "DEFAULT.png",
+      "Protocol": 2,
+      "ServerIPHost": "nfzy.runutour.info",
+      "V2Ray": {
+        "RawConfig": "vless:\/\/f3bf8355-b78e-4cf2-b98b-a550a34ca417@nfzy.runutour.info:443?path=%2Fvollam%2F&security=tls&allowInsecure=1&encryption=none&host=nfzy.runutour.info&type=ws&sni=nfzy.runutour.info#VOLLAM-TLS"
+      }
+    },
+    {
+      "Name": "ovpn",
+      "Subname": "free",
+      "Flag": "DEFAULT.png",
+      "Protocol": 0,
+      "ServerIPHost": "a.ruzain.com",
+      "ServerCloudFrontHost": "a.ruzain.com",
+      "ServerHTTPHost": "a.ruzain.com",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "442",
+      "dropBear": "44",
+      "AutoLogin": false
+    },
+    {
+      "Name": "ovpn user",
+      "Subname": "free",
+      "Flag": "DEFAULT.png",
+      "Protocol": 0,
+      "ServerIPHost": "a.ruzain.com",
+      "ServerCloudFrontHost": "a.ruzain.com",
+      "ServerHTTPHost": "a.ruzain.com",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "442",
+      "dropBear": "44",
+      "AutoLogin": true,
+      "Username": "dev22",
+      "Password": "dev22"
     }
   ],
   "Networks": []
