@@ -1,12 +1,12 @@
 {
-  "Version": "1.2.8",
+  "Version": "1.2.9",
   "Servers": [
     {
       "Name": "Server OVPN",
       "ServerIPHost": "a.ruzain.com",
       "Subname": "",
       "OpenVPNTCPPort": "1194",
-      "OpenVPNSSLPort": "443",
+      "OpenVPNSSLPort": "442",
       "Protocol": 0,
       "CloudfrontDNS": "",
       "ServerHTTP": "",
@@ -33,7 +33,7 @@
       "ServerIPHost": "a.ruzain.com",
       "Subname": "",
       "OpenVPNTCPPort": "1194",
-      "OpenVPNSSLPort": "443",
+      "OpenVPNSSLPort": "442",
       "Protocol": 0,
       "CloudfrontDNS": "",
       "ServerHTTP": "",
