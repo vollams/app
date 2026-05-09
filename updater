@@ -293,7 +293,7 @@
       "AutoLogin": false,
       "UDPAuthMode": 0,
       "UDPMode": 0,
-      "Protocol": 2,
+      "Protocol": 1,
       "V2Ray": {
         "V2RayType": 3,
         "V2RayHost": "topugcp01-387265174437.europe-west1.run.app",
@@ -313,7 +313,7 @@
       "AutoLogin": false,
       "UDPAuthMode": 0,
       "UDPMode": 0,
-      "Protocol": 2,
+      "Protocol": 1,
       "V2Ray": {
         "V2RayType": 3,
         "V2RayHost": "server1-71907621929.europe-west1.run.app",
@@ -333,7 +333,7 @@
       "AutoLogin": false,
       "UDPAuthMode": 0,
       "UDPMode": 0,
-      "Protocol": 2,
+      "Protocol": 1,
       "V2Ray": {
         "V2RayType": 3,
         "V2RayHost": "ansumandns1-263265255739.europe-west3.run.app",
@@ -353,7 +353,7 @@
       "AutoLogin": false,
       "UDPAuthMode": 0,
       "UDPMode": 0,
-      "Protocol": 2,
+      "Protocol": 1,
       "V2Ray": {
         "V2RayType": 3,
         "V2RayHost": "sni.111000.v6.navy",
@@ -373,7 +373,7 @@
       "AutoLogin": false,
       "UDPAuthMode": 0,
       "UDPMode": 0,
-      "Protocol": 2,
+      "Protocol": 1,
       "V2Ray": {
         "V2RayType": 3,
         "V2RayHost": "2026.hhhhh.eu.org",
@@ -393,7 +393,7 @@
       "AutoLogin": false,
       "UDPAuthMode": 0,
       "UDPMode": 0,
-      "Protocol": 2,
+      "Protocol": 1,
       "V2Ray": {
         "V2RayType": 3,
         "V2RayHost": "639075478000711639.civic-perma.info",
@@ -413,7 +413,7 @@
       "AutoLogin": false,
       "UDPAuthMode": 0,
       "UDPMode": 0,
-      "Protocol": 2,
+      "Protocol": 1,
       "V2Ray": {
         "V2RayType": 3,
         "V2RayHost": "sni.jpmj.dev",
@@ -433,7 +433,7 @@
       "AutoLogin": false,
       "UDPAuthMode": 0,
       "UDPMode": 0,
-      "Protocol": 2,
+      "Protocol": 1,
       "V2Ray": {
         "V2RayType": 3,
         "V2RayHost": "sni.111000.indevs.in",
@@ -453,7 +453,7 @@
       "AutoLogin": false,
       "UDPAuthMode": 0,
       "UDPMode": 0,
-      "Protocol": 2,
+      "Protocol": 1,
       "V2Ray": {
         "V2RayType": 3,
         "V2RayHost": "shenbaoluo1.zqjsqapi.com",
@@ -820,7 +820,7 @@
       "AutoLogin": false,
       "UDPAuthMode": 0,
       "UDPMode": 0,
-      "Protocol": 2,
+      "Protocol": 1,
       "V2Ray": {
         "V2RayType": 3,
         "V2RayHost": "v19wi.pinasconfig.com",
@@ -840,7 +840,7 @@
       "AutoLogin": false,
       "UDPAuthMode": 0,
       "UDPMode": 0,
-      "Protocol": 2,
+      "Protocol": 1,
       "V2Ray": {
         "V2RayType": 3,
         "V2RayHost": "v19wi.pinasconfig.com",
@@ -860,7 +860,7 @@
       "AutoLogin": false,
       "UDPAuthMode": 0,
       "UDPMode": 0,
-      "Protocol": 2,
+      "Protocol": 1,
       "V2Ray": {
         "V2RayType": 3,
         "V2RayHost": "v19wi.pinasconfig.com",
@@ -880,7 +880,7 @@
       "AutoLogin": false,
       "UDPAuthMode": 0,
       "UDPMode": 0,
-      "Protocol": 2,
+      "Protocol": 1,
       "V2Ray": {
         "V2RayType": 3,
         "V2RayHost": "v19wi.pinasconfig.com",
@@ -900,7 +900,7 @@
       "AutoLogin": false,
       "UDPAuthMode": 0,
       "UDPMode": 0,
-      "Protocol": 2,
+      "Protocol": 1,
       "V2Ray": {
         "V2RayType": 3,
         "V2RayHost": "v19wi.pinasconfig.com",
@@ -920,7 +920,7 @@
       "AutoLogin": false,
       "UDPAuthMode": 0,
       "UDPMode": 0,
-      "Protocol": 2,
+      "Protocol": 1,
       "V2Ray": {
         "V2RayType": 3,
         "V2RayHost": "v19wi.pinasconfig.com",
@@ -956,7 +956,7 @@
       "AutoLogin": false,
       "UDPAuthMode": 0,
       "UDPMode": 0,
-      "Protocol": 2,
+      "Protocol": 1,
       "V2Ray": {
         "V2RayType": 3,
         "V2RayHost": "f1.dev-zoom.buzz",
@@ -976,7 +976,7 @@
       "AutoLogin": false,
       "UDPAuthMode": 0,
       "UDPMode": 0,
-      "Protocol": 2,
+      "Protocol": 1,
       "V2Ray": {
         "V2RayType": 3,
         "V2RayHost": "f1.dev-zoom.buzz",
